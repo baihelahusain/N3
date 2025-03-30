@@ -1,0 +1,20 @@
+streamlit
+pandas
+numpy
+folium
+streamlit-folium
+requests
+beautifulsoup4
+geopandas
+matplotlib
+pycountry
+altair
+plotly
+python-dotenv
+google-generativeai
+scipy
+streamlit_lottie
+
+# Additional dependencies (ensure these are installed)
+shapely
+fiona
